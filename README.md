@@ -114,7 +114,7 @@
 - [JavaScript ES2023 Features](link) - Exploring the latest JavaScript features
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 ```diff
 + Master TypeScript and Next.js

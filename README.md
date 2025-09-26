@@ -81,48 +81,10 @@ personality_traits:
   - "Detail-Oriented & Quality-Focused"
   - "Adaptable & Quick Learner"
   - "Passionate About Clean Code"
-</td> <td width="50%"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 15px;">
-🌟 Quick Facts
-🔥 3+ years of professional development experience
 
-💼 20+ projects completed successfully
+yaml```
 
-🌍 5+ countries clients served globally
 
-⭐ 2.5K+ GitHub stars across repositories
-
-📝 25+ technical articles published
-
-🎓 15+ developers mentored
-
-🏆 10+ certifications earned
-
-💡 Always learning new technologies
-
-🎯 Current Goals 2025
-🚀 Launch 3 SaaS products
-
-📚 Write technical book
-
-🎤 Speak at 5+ conferences
-
-🌟 Reach 10K GitHub followers
-
-💼 Build tech consultancy
-
-🤝 Mentor 50+ developers
-
-</td> </tr> </table><!-- Animated Separator --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🔥 GitHub Analytics & Performance Dashboard
-<div align="center">
-📊 Comprehensive GitHub Statistics
-<table> <tr> <td align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api?username=getabalewkemaw&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=58a6ff&text_color=c9d1d9&ring_color=ff6b6b"/> </td> <td align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewkemaw&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&card_width=300"/> </td> </tr> </table>
-🔥 Streak & Activity Stats
-<table> <tr> <td align="center"> <img src="https://streak-stats.demolab.com?user=getabalewkemaw&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" /> </td> </tr> <tr> <td align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=getabalewkemaw&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=58a6ff&point=ff6b6b&area=true&custom_title=📈%20Annual%20Contribution%20Activity" alt="Activity Graph" /> </td> </tr> </table>
-🏆 Achievement Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=getabalewkemaw&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers,Stars,Experience" alt="GitHub Trophies" />
-📈 Detailed Performance Metrics
-<table> <tr> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=getabalewkemaw&theme=radical" alt="Profile Details"/></td> </tr> <tr> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=getabalewkemaw&theme=radical" alt="Repos per Language"/></td> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=getabalewkemaw&theme=radical" alt="Most Commit Language"/></td> </tr> <tr> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=getabalewkemaw&theme=radical" alt="Stats"/></td> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=getabalewkemaw&theme=radical&utcOffset=3" alt="Productive Time"/></td> </tr> </table></div><!-- Animated Separator --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🛠️ Technology Arsenal & Expertise Matrix
 <div align="center">
 🎨 Frontend Technologies & Frameworks

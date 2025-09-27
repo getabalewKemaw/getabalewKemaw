@@ -49,7 +49,7 @@
 <td width="50%">
 
 ### 👨‍💻 Professional Summary
-```yaml
+
 name: Getabalew Kemaw
 title: Full-Stack Developer & Tech Enthusiast
 location: Addis Ababa, Ethiopia 🇪🇹
@@ -82,7 +82,6 @@ personality_traits:
   - "Adaptable & Quick Learner"
   - "Passionate About Clean Code"
 
-yaml```
 
 
 🛠️ Technology Arsenal & Expertise Matrix
@@ -1565,4 +1564,4 @@ Your visit means the world to me, and I hope you found something valuable, inspi
   <img src="https://visitcount.itsvg.in/api?id=getabalewKemaw&icon=5&color=6" alt="Profile Visit Counter"/>
 </div>dge/⭐_STAR_MY_REPOS-Show_Support-yellow?style=for-the-badge&logo=star&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/🤝_FOLLOW_ME-Stay_Connected-blue?style=for-the-badge&logo=github&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/💬_REACH_OUT-Let's_Collaborate-green?style=for-the-badge&logo=chat&logoColor=white" /> </td> </tr> </table><!-- Footer Wave Animation --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=fadeIn" alt="Footer Wave Animation"/></div>
 <div align="center"> <sub>⚡ **Powered by passion, fueled by Ethiopian coffee, and driven by the desire to make a difference through code** ⚡</sub> <br> <sub>🇪🇹 **Made with ❤️ in Addis Ababa, Ethiopia** | © 2025 Getabalew Kemaw | **All rights reserved**</sub> <br><br> <img src="https://visitcount.itsvg.in/api?id=getabalewkemaw&icon=5&color=6" alt="Profile Visit Counter"/> </div> ```
-  please some of the code   is  not excuted so do  that pease  send giv eme the full codeplease
+ 

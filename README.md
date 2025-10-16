@@ -8,7 +8,7 @@
 <!-- Multi-Line Typing Animation with Emojis -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=👋+Hi%2C+I'm+Getabalew+Kemaw;+Full-Stack+Developer;+Mobile+App+Developer+from+Ethiopia+🇪🇹;⚡+React+|+Next.js+|+TypeScript+Expert;🔥+C%23+.NET+Framework+Specialist;🌟+Building+Scalable+Web+Applications;💚+Open+Source+Contributor+%26+Mentor;✨+Turning+Creative+Ideas+into+Digital+Reality;🎯+Code+|+Create+|+Innovate+|+Inspire" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=👋+Hi%2C+I'm+Getabalew+Kemaw;+Full-Stack+Developer;+from+Ethiopia+🇪🇹;⚡+React+|+Next.js+|+TypeScript+Expert;🔥+C%23+.NET+Framework+Specialist;🌟+Building+Scalable+Web+Applications;💚+Open+Source+Contributor+%26+Mentor;✨+Turning+Creative+Ideas+into+Digital+Reality;🎯+Code+|+Create+|+Innovate+|+Inspire" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -55,26 +55,26 @@
 name: Getabalew Kemaw
 title: Full-Stack Developer & Tech Enthusiast
 location: Addis Ababa, Ethiopia 🇪🇹
-experience: 3+ Years in Web Development
+experience: 2+ Years in Web Development
 education: 
-  - "Computer Science Graduate"
+  - "Soft ware enginering   student"
   - "Self-Taught Developer"
   - "Continuous Learner & Innovator"
 status: "Available for Freelance & Full-time"
 
 specialization:
   - "Frontend: React, Next.js, Vue.js, Angular"
-  - "Backend: Node.js, .NET Core, Python, PHP"
-  - "Database: MongoDB, PostgreSQL, MySQL, Redis"
-  - "Cloud: AWS, Azure, Google Cloud Platform"
-  - "DevOps: Docker, Kubernetes, CI/CD Pipelines"
-  - "Mobile: React Native, Flutter"
+  - "Backend: Node.js, Python, Spring boot,Express js"
+  - "Database: MongoDB, PostgreSQL, MySQL, Sql,Oracle"
+  - "Cloud: AWS, Google Cloud Platform"
+  - "DevOps: Docker, , CI/CD Pipelines"
+  - "Mobile: React Native"
 
 current_focus:
   - "Building Scalable SaaS Applications"
   - "Microservices Architecture"
   - "AI/ML Integration in Web Apps"
-  - "Web3 & Blockchain Development"
+
   - "Open Source Contributions"
 
 personality_traits:
@@ -91,22 +91,9 @@ personality_traits:
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 15px;">
 
 ### 🌟 Quick Facts
-- 🔥 **3+ years** of professional development experience
-- 💼 **20+ projects** completed successfully
-- 🌍 **5+ countries** clients served globally
-- ⭐ **2.5K+ GitHub stars** across repositories
-- 📝 **25+ technical articles** published
-- 🎓 **15+ developers** mentored
-- 🏆 **10+ certifications** earned
+
 - 💡 **Always learning** new technologies
 
-### 🎯 Current Goals 2025
-- 🚀 Launch 3 SaaS products
-- 📚 Write technical book
-- 🎤 Speak at 5+ conferences
-- 🌟 Reach 10K GitHub followers
-- 💼 Build tech consultancy
-- 🤝 Mentor 50+ developers
 
 </td>
 </tr>
@@ -190,16 +177,6 @@ personality_traits:
       <br><strong>Vue.js</strong>
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
-      <br><strong>Angular</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=svelte" width="65" height="65" alt="Svelte" />
-      <br><strong>Svelte</strong>
-      <br><sub>⭐⭐⭐</sub>
-    </td>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -245,7 +222,7 @@ personality_traits:
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
-      <br><strong>.NET</strong>
+      <br><strong>Spring boot</strong>
       <br><sub>⭐⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
@@ -253,28 +230,8 @@ personality_traits:
       <br><strong>Python</strong>
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-      <br><strong>PHP</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
-      <br><strong>Django</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      <br><strong>Flask</strong>
-      <br><sub>⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-      <br><strong>Laravel</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
       <br><strong>FastAPI</strong>
@@ -307,11 +264,6 @@ personality_traits:
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-      <br><strong>Redis</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
       <br><strong>SQLite</strong>
       <br><sub>⭐⭐⭐</sub>
@@ -328,24 +280,9 @@ personality_traits:
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure" />
-      <br><strong>Azure</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Google Cloud" />
-      <br><strong>GCP</strong>
-      <br><sub>⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
       <br><strong>Docker</strong>
       <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
-      <br><strong>Kubernetes</strong>
-      <br><sub>⭐⭐⭐</sub>
     </td>
   </tr>
 </table>
@@ -361,21 +298,6 @@ personality_traits:
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
       <br><strong>Dart</strong>
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
-      <br><strong>Kotlin</strong>
-      <br><sub>⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=swift" width="65" height="65" alt="Swift" />
-      <br><strong>Swift</strong>
-      <br><sub>⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=electron" width="65" height="65" alt="Electron" />
-      <br><strong>Electron</strong>
       <br><sub>⭐⭐⭐⭐</sub>
     </td>
   </tr>
@@ -500,12 +422,12 @@ JSON         25 mins         ░░░░░░░░░░░░░░░░░
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/getabalewkemaw/PNSFORALLAPP">
+      <a href="https://github.com/getabalewkemaw/Customer-Ai-Assistant">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=getabalewkemaw&repo=PNSFORALLAPP&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=58a6ff" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/getabalewkemaw/SIMS">
+      <a href="https://github.com/getabalewkemaw/SkillshareHub-">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=getabalewkemaw&repo=SIMS&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=58a6ff" />
       </a>
     </td>
@@ -525,18 +447,8 @@ JSON         25 mins         ░░░░░░░░░░░░░░░░░
       <br>
       <sub><b>Scalable software-as-a-service solutions with multi-tenancy</b></sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🤖_AI_Integration-Smart_Analytics-purple?style=for-the-badge&logo=brain&logoColor=white" />
-      <br>
-      <sub><b>Machine learning dashboards and AI-powered applications</b></sub>
-    </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/📊_Data_Visualization-Interactive_Dashboards-orange?style=for-the-badge&logo=chartjs&logoColor=white" />
-      <br>
-      <sub><b>Real-time analytics and business intelligence platforms</b></sub>
-    </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/🔐_Security_Systems-Authentication_&_Authorization-red?style=for-the-badge&logo=shield&logoColor=white" />
       <br>
@@ -672,21 +584,20 @@ JSON         25 mins         ░░░░░░░░░░░░░░░░░
 ### 🏆 Professional Values
 ```javascript
 const getabalewKemaw = {
-  code: ["JavaScript", "TypeScript", "Python", "C#", "PHP"],
+  code: ["JavaScript", "TypeScript", "Python", "C++", "java"],
   askMeAbout: ["web dev", "tech", "app dev", "mentoring"],
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js", "Vue", "Angular"],
+      js: ["React", "Next.js", "Angular"],
       css: ["Tailwind", "Bootstrap", "Sass", "Styled-Components"]
     },
     backEnd: {
-      js: ["Node", "Express", "Nest.js"],
-      csharp: [".NET Core", "ASP.NET"],
-      python: ["Django", "Flask", "FastAPI"]
+      js: ["Node", "Express"],
+      java: ["Spring boot"]
     },
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    cloud: ["AWS", "Azure", "Google Cloud"],
-    misc: ["Docker", "Kubernetes", "GraphQL", "REST APIs"]
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Prisma"],
+    cloud: ["AWS", "Google Cloud"],
+    misc: ["Docker", "GraphQL", "REST APIs"]
   },
   currentFocus: "Building scalable SaaS applications",
   funFact: "I debug with console.log() and I'm proud of it! 😄",
@@ -695,13 +606,6 @@ const getabalewKemaw = {
 };
 ```
 
-### 🌟 Daily Routine
-- ☕ **6:00 AM** - Ethiopian coffee & tech news
-- 💻 **7:00 AM** - Deep work coding session
-- 🏃‍♂️ **12:00 PM** - Exercise & mental break
-- 🤝 **2:00 PM** - Team collaboration & meetings
-- 📚 **6:00 PM** - Learning new technologies
-- 🌙 **8:00 PM** - Open source contributions
 
 </td>
 </tr>
@@ -712,131 +616,12 @@ const getabalewKemaw = {
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📝 Content Creation & Knowledge Sharing Hub
 
-<div align="center">
-
-### ✍️ Technical Writing & Blog Posts
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://dev.to/getabalewkemaw/building-scalable-react-typescript">
-        <img src="https://img.shields.io/badge/🚀_Building_Scalable_React_Apps-TypeScript_Guide-blue?style=for-the-badge&logo=react&logoColor=white" />
-      </a>
-      <br>
-      <sub><i>📅 Dec 15, 2024 • ⏱️ 15 min read • 👀 3.2K views • ❤️ 245 likes</i></sub>
-    </td>
-    <td align="center" width="300">
-      <a href="https://medium.com/@getabalewkemaw/react-performance-guide">
-        <img src="https://img.shields.io/badge/⚡_React_Performance-Optimization_Masterclass-green?style=for-the-badge&logo=react&logoColor=white" />
-      </a>
-      <br>
-      <sub><i>📅 Dec 10, 2024 • ⏱️ 18 min read • 👀 4.1K views • ❤️ 312 likes</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://hashnode.com/@getabalewkemaw/js-es2024-features">
-        <img src="https://img.shields.io/badge/🔧_JavaScript_ES2024-New_Features_Deep_Dive-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-      </a>
-      <br>
-      <sub><i>📅 Dec 5, 2024 • ⏱️ 12 min read • 👀 2.8K views • ❤️ 189 likes</i></sub>
-    </td>
-    <td align="center" width="300">
-      <a href="https://dev.to/getabalewkemaw/nodejs-express-api">
-        <img src="https://img.shields.io/badge/🌐_Node.js_API_Development-Express_&_Best_Practices-red?style=for-the-badge&logo=node.js&logoColor=white" />
-      </a>
-      <br>
-      <sub><i>📅 Nov 30, 2024 • ⏱️ 20 min read • 👀 5.5K views • ❤️ 423 likes</i></sub>
-    </td>
-  </tr>
-</table>
-
-### 📺 Video Content & Tutorials
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://youtube.com/watch?v=example1">
-        <img src="https://img.shields.io/badge/🎥_React_Hooks_Mastery-Complete_Tutorial_Series-red?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <br>
-      <sub>📊 45K views • 👍 2.1K likes • 💬 156 comments • ⏱️ 45 min</sub>
-    </td>
-    <td align="center" width="300">
-      <a href="https://youtube.com/watch?v=example2">
-        <img src="https://img.shields.io/badge/🎥_MERN_Stack_Bootcamp-Full_Course_2024-red?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <br>
-      <sub>📊 32K views • 👍 1.8K likes • 💬 203 comments • ⏱️ 3.5 hours</sub>
-    </td>
-  </tr>
-</table>
-
-### 📊 Content Creation Statistics
-<div align="center">
-  <img src="https://img.shields.io/badge/📝_ARTICLES_PUBLISHED-35+-blue?style=for-the-badge&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/👀_TOTAL_ARTICLE_VIEWS-125K+-green?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎥_VIDEOS_CREATED-18+-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/📺_TOTAL_VIDEO_VIEWS-250K+-purple?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/💬_COMMUNITY_ENGAGEMENT-15K+-orange?style=for-the-badge&logo=discord&logoColor=white" />
-</div>
-
-### 🎤 Speaking Engagements & Workshops
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎯_DEVFEST_ETHIOPIA_2024-Modern_React_Patterns-blue?style=for-the-badge&logo=google&logoColor=white" />
-      <br><sub>Keynote speaker • 500+ attendees • React best practices</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🚀_TECH_MEETUP_ADDIS-API_Design_Principles-green?style=for-the-badge&logo=meetup&logoColor=white" />
-      <br><sub>Technical workshop • 150+ developers • RESTful APIs</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Professional Network & Community Connections
 
-<div align="center">
-
-### 📫 Primary Communication Channels
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://linkedin.com/in/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <br><strong>Professional Network</strong>
-        <br><sub>3.2K+ connections</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://x.com/GetabalewKemaw16435" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-        <br><strong>Tech Updates</strong>
-        <br><sub>1.8K+ followers</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="mailto:getabalewkemaw9@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        <br><strong>Direct Contact</strong>
-        <br><sub>24h response time</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://getabalewkemawportfolio.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-        <br><strong>Work Showcase</strong>
-        <br><sub>25+ projects featured</sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### 💻 Developer Community Platforms
 <table>
@@ -845,7 +630,7 @@ const getabalewKemaw = {
       <a href="https://leetcode.com/getabalewkemaw" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
         <br><strong>Problem Solving</strong>
-        <br><sub>500+ problems solved</sub>
+        <br><sub>20+ problems solved</sub>
       </a>
     </td>
     <td align="center" width="150">
@@ -855,98 +640,15 @@ const getabalewKemaw = {
         <br><sub>50+ creative demos</sub>
       </a>
     </td>
-    <td align="center" width="150">
-      <a href="https://stackoverflow.com/users/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-        <br><strong>Community Help</strong>
-        <br><sub>2.5K+ reputation</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://dev.to/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-        <br><strong>Technical Writing</strong>
-        <br><sub>35+ articles published</sub>
-      </a>
+  </tr>
+</table>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
 
-### 🎮 Creative & Social Platforms
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://discord.gg/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-        <br><strong>Community Server</strong>
-        <br><sub>800+ members</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://twitch.tv/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-        <br><strong>Live Coding</strong>
-        <br><sub>Weekly streams</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://youtube.com/@getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-        <br><strong>Tech Tutorials</strong>
-        <br><sub>1.2K+ subscribers</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://instagram.com/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        <br><strong>Behind the Scenes</strong>
-        <br><sub>Developer lifestyle</sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
-### 🌟 Professional Services & Freelancing
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://upwork.com/freelancers/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-        <br><strong>Freelance Projects</strong>
-        <br><sub>Top Rated Plus</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://fiverr.com/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-        <br><strong>Quick Services</strong>
-        <br><sub>Level 2 Seller</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://behance.net/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-        <br><strong>Design Portfolio</strong>
-        <br><sub>UI/UX showcase</sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://dribbble.com/getabalewkemaw" target="_blank">
-        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-        <br><strong>Creative Work</strong>
-        <br><sub>Design inspiration</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 📊 Network Engagement Statistics
-<div align="center">
-  <img src="https://img.shields.io/badge/🌐_TOTAL_NETWORK_SIZE-15K+-blue?style=for-the-badge&logo=network&logoColor=white" />
-  <img src="https://img.shields.io/badge/💬_MONTHLY_INTERACTIONS-2.5K+-green?style=for-the-badge&logo=chat&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤝_PROFESSIONAL_CONNECTIONS-3.2K+-purple?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/📈_ENGAGEMENT_RATE-8.5%25-orange?style=for-the-badge&logo=trending-up&logoColor=white" />
-</div>
 
 </div>
 
@@ -984,18 +686,6 @@ const getabalewKemaw = {
     </td>
   </tr>
 </table>
-
-### 📈 Annual Growth Targets & KPIs
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎯_OPEN_SOURCE-20+_Major_Contributions-success?style=for-the-badge&logo=opensource&logoColor=white" />
-      <br><sub>Contribute to popular repositories and maintain own projects</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🚀_SAAS_PRODUCTS-3_Successful_Launches-blue?style=for-the-badge&logo=rocket&logoColor=white" />
-      <br><sub>Build and monetize scalable software solutions</sub>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -1012,22 +702,8 @@ const getabalewKemaw = {
       <img src="https://img.shields.io/badge/👥_MENTORSHIP_PROGRAM-50+_Developers_Guided-purple?style=for-the-badge&logo=graduation-cap&logoColor=white" />
       <br><sub>Help junior developers grow their careers</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/💼_BUSINESS_GROWTH-Tech_Consultancy_Launch-yellow?style=for-the-badge&logo=briefcase&logoColor=white" />
-      <br><sub>Establish consulting firm for enterprise solutions</sub>
-    </td>
   </tr>
 </table>
-
-### 🏆 2024 Achievements Milestone Review
-<div align="center">
-  <img src="https://img.shields.io/badge/✅_PROJECTS_COMPLETED-25+-success?style=for-the-badge&logo=check&logoColor=white" />
-  <img src="https://img.shields.io/badge/✅_GITHUB_STARS_EARNED-3.5K+-success?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/✅_DEVELOPERS_MENTORED-20+-success?style=for-the-badge&logo=users&logoColor=white" />
-  <img src="https://img.shields.io/badge/✅_ARTICLES_PUBLISHED-35+-success?style=for-the-badge&logo=edit&logoColor=white" />
-  <img src="https://img.shields.io/badge/✅_COMMUNITY_GROWTH-5K+-success?style=for-the-badge&logo=trending-up&logoColor=white" />
-  <img src="https://img.shields.io/badge/✅_CERTIFICATIONS_EARNED-8+-success?style=for-the-badge&logo=certificate&logoColor=white" />
-</div>
 
 ### 🎯 Long-term Vision (2025-2027)
 <table>
@@ -1086,79 +762,9 @@ const getabalewKemaw = {
   </tr>
 </table>
 
-### 🤝 Collaboration Opportunities
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/⭐_STAR_REPOSITORIES-Show_Appreciation-yellow?style=for-the-badge&logo=star&logoColor=white" />
-      <br>
-      <sub>Help increase project visibility and motivation</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🍴_FORK_&_CONTRIBUTE-Improve_Together-blue?style=for-the-badge&logo=git-fork&logoColor=white" />
-      <br>
-      <sub>Join development and add new features</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/📢_SHARE_CONTENT-Spread_Knowledge-green?style=for-the-badge&logo=share&logoColor=white" />
-      <br>
-      <sub>Help others discover useful resources</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/💬_PROVIDE_FEEDBACK-Help_Me_Grow-purple?style=for-the-badge&logo=chat&logoColor=white" />
-      <br>
-      <sub>Constructive criticism drives improvement</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🚀_COLLABORATE_ON_PROJECTS-Build_Amazing_Things-red?style=for-the-badge&logo=rocket&logoColor=white" />
-      <br>
-      <sub>Partner on innovative solutions</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🎓_JOIN_COMMUNITY-Learn_&_Teach-orange?style=for-the-badge&logo=discord&logoColor=white" />
-      <br>
-      <sub>Be part of our growing developer family</sub>
-    </td>
-  </tr>
-</table>
 
-### 💝 Sponsor Benefits & Perks
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎯_PRIORITY_SUPPORT-Exclusive_Access-gold?style=for-the-badge&logo=support&logoColor=white" />
-      <br><sub>Direct line for technical questions and project assistance</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/📞_1:1_MENTORING-Monthly_Sessions-gold?style=for-the-badge&logo=video&logoColor=white" />
-      <br><sub>Personal career guidance and technical mentorship</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎨_CUSTOM_SOLUTIONS-Tailored_Development-gold?style=for-the-badge&logo=code&logoColor=white" />
-      <br><sub>Personalized coding solutions for your specific needs</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/📚_EXCLUSIVE_CONTENT-Early_Access-gold?style=for-the-badge&logo=book&logoColor=white" />
-      <br><sub>Preview new tutorials, courses, and resources first</sub>
-    </td>
-  </tr>
-</table>
 
-### 💼 Professional Services Available
-<div align="center">
-  <img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT-Full_Stack_Solutions-blue?style=for-the-badge&logo=web&logoColor=white" />
-  <img src="https://img.shields.io/badge/📱_MOBILE_APPS-Cross_Platform_Development-green?style=for-the-badge&logo=mobile&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨_UI/UX_DESIGN-User_Experience_Optimization-purple?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/📚_TECHNICAL_WRITING-Documentation_&_Tutorials-orange?style=for-the-badge&logo=edit&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎓_CODE_REVIEWS-Quality_Assurance_&_Mentoring-red?style=for-the-badge&logo=review&logoColor=white" />
-  <img src="https://img.shields.io/badge/☁️_CLOUD_ARCHITECTURE-Scalable_Infrastructure-yellow?style=for-the-badge&logo=cloud&logoColor=white" />
-</div>
 
-</div>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -1,16 +1,50 @@
 # Getabalew Kemaw
 
-Full‑Stack Developer — I build clean, scalable web applications with React, Next.js, TypeScript, Node.js/.NET, and cloud services. Passionate about design systems, developer experience, and performance.
+Full‑Stack Developer — I design and build reliable, performant web apps with React, Next.js, TypeScript, Node.js/.NET, and cloud services. I care about accessibility, clean architecture, and shipping with quality.
 
 - **Location**: Addis Ababa, Ethiopia
 - **Open to**: Full‑time and freelance
-- **Contact**: getabalewkemaw9@gmail.com · LeetCode: https://leetcode.com/getabalewKemaw
+- **Contact**: getabalewkemaw9@gmail.com
+- **LeetCode**: https://leetcode.com/getabalewKemaw
 
 ---
 
-### Tech I use
+### At a glance
+
+- **Core stack**: React, Next.js, TypeScript, Node.js/Express, .NET, PostgreSQL, MongoDB, Docker
+- **Strengths**: Frontend architecture, design systems, API design, performance, developer experience
+- **I enjoy**: Turning product ideas into end‑to‑end solutions with thoughtful UX and maintainable code
+- **Currently**: Improving my DSA with daily LeetCode, refining component libraries, and shipping SaaS templates
+
+---
+
+### Skills
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind, CSS-in-JS, Accessibility (WCAG)
+- **Backend & APIs**: Node.js, Express, .NET, REST, GraphQL, Authentication/Authorization
+- **Databases**: PostgreSQL, MySQL, MongoDB, Prisma
+- **Cloud & DevOps**: Docker, AWS, CI/CD (GitHub Actions)
+- **Tooling**: Git, GitHub, VS Code, Linux
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,dotnet,python,graphql,postgres,mysql,mongodb,prisma,docker,aws,linux,git,vscode&perline=10" alt="Tech stack icons" />
+
+---
+
+### Selected work
+
+- [Customer-Ai-Assistant](https://github.com/getabalewKemaw/Customer-Ai-Assistant) — AI‑powered customer assistant and knowledge search
+- [SkillshareHub-](https://github.com/getabalewKemaw/SkillshareHub-) — Social learning and content sharing platform built with modern web tech
+
+More on my GitHub profile.
+
+---
+
+### How I work
+
+- **Product-first**: Start from user outcomes, then design the simplest solution
+- **Readable code**: Consistent patterns, typed APIs, clear boundaries, and helpful naming
+- **Quality**: Small PRs, useful tests, meaningful monitoring, and performance budgets
+- **Collaboration**: Clear communication, documentation, and async‑friendly workflows
 
 ---
 

@@ -2,7 +2,7 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Getabalew Kemaw
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Specialist;TypeScript+Enthusiast;Cloud+Architecture+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Developer;TypeScript+Enthusiast;laravel+Spring-boot+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
@@ -11,14 +11,15 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```typescript
-const getabalew = {
-    location: "Addis Ababa, Ethiopia 🇪🇹",
+const getabalewKemaw = {
+    location: "DebreBerhan Ababa, Ethiopia 🇪🇹",
     role: "Full-Stack Developer",
-    experience: "3+ years",
-    availability: "Open to full-time & freelance opportunities",
+    experience: "1 years",
+    availability: "Open to remote & freelance opportunities",
     passion: ["Clean Code", "Scalable Architecture", "User Experience"],
-    currentFocus: "Building next-generation web applications",
-    contact: "getabalewkemaw9@gmail.com"
+    currentFocus: "Building next-generation web applications,BackendDevelopment using laravel",
+    contact: "getabalewkemaw@gmail.com",
+    portifolio:"getabalewkemaw.vercel.app
 };
 ```
 
@@ -36,7 +37,7 @@ const getabalew = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" alt="Frontend technologies" />
 
 ### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,graphql,postgres,mysql,mongodb,prisma" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring-boot,laravel,python,graphql,postgres,mysql,mongodb,prisma" alt="Backend technologies" />
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman,figma" alt="DevOps and tools" />
@@ -105,9 +106,9 @@ const getabalew = {
 
 <!-- LEETCODE:START -->
 **Recent LeetCode Activity:**
-- 🔥 Solved 150+ problems across different difficulty levels
+- 🔥 Solved 20+ problems across different difficulty levels
 - 💪 Consistent daily practice streak
-- 🎯 Focus on algorithms and data structures
+- 🎯 Focus on algorithms and data structures and System design
 - 📈 Improving problem-solving efficiency
 <!-- LEETCODE:END -->
 
@@ -120,8 +121,8 @@ const getabalew = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/getabalew-kemaw)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getabalewKemaw)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/getabalewKemaw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getabalewkemaw9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://getabalew-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getabalewkemaw@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://getabalewkemaw.vercel.app)
 
 </div>
 
@@ -135,12 +136,12 @@ const getabalew = {
 
 ### 💼 Professional Experience
 ```
-🏢 Senior Full-Stack Developer        📅 2022 - Present
-   • Led development of 5+ web applications
-   • Improved application performance by 40%
+🏢  Full-Stack Developer        📅 2024 - Present
+   •  development of 5+ web applications
+   • Improved application performance 
    • Mentored junior developers
 
-🏢 Frontend Developer                 📅 2021 - 2022
+🏢 Frontend Developer                 📅 2024
    • Built responsive React applications
    • Collaborated with design teams
    • Implemented modern UI/UX patterns
@@ -153,13 +154,13 @@ const getabalew = {
 - ⚛️ React.js & Next.js ecosystem
 - 🎨 Modern CSS (Tailwind, Styled Components)
 - 📱 Responsive & Mobile-first design
-- 🔄 State management (Redux, Zustand)
+- 🔄 State management ( Zustand)
 
 **Backend Development**
 - 🚀 Node.js & Express.js
-- 🔷 .NET Core & ASP.NET
+- 🔷 Laravel & Spring-boot
 - 🗄️ Database design & optimization
-- 🔐 Authentication & authorization
+- 🔐 Authentication (Oauth...)& authorization
 
 **DevOps & Cloud**
 - ☁️ AWS services (EC2, S3, Lambda)
@@ -183,7 +184,7 @@ const funFacts = {
     ☕ fuelledBy: "Coffee and curiosity",
     🎵 codingPlaylist: ["Lo-fi Hip Hop", "Synthwave", "Classical"],
     🎮 hobbies: ["Chess", "Reading Tech Blogs", "Open Source Contributions"],
-    🌱 currentlyLearning: ["Rust", "Web3", "Machine Learning"],
+    🌱 currentlyLearning: ["laravel", "Ai integration and SEO", "Machine Learning"],
     💭 philosophy: "Code is poetry, bugs are just typos"
 };
 ```

@@ -1,36 +1,32 @@
-# Getabalew Kemaw
+## Aurora — Animated Landing Page
 
-Full‑Stack Developer — I build clean, scalable web applications with React, Next.js, TypeScript, Node.js/.NET, and cloud services. Passionate about design systems, developer experience, and performance.
+A vibrant, responsive landing page with silky animations, dark/light themes, and curated imagery from Unsplash Source and Pravatar. Built to be beautiful, attractive, and fast.
 
-- **Location**: Addis Ababa, Ethiopia
-- **Open to**: Full‑time and freelance
-- **Contact**: getabalewkemaw9@gmail.com · LeetCode: https://leetcode.com/getabalewKemaw
+### Preview
 
----
+- Open `index.html` in your browser. No build step needed.
 
-### Tech I use
+### Features
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,dotnet,python,graphql,postgres,mysql,mongodb,prisma,docker,aws,linux,git,vscode&perline=10" alt="Tech stack icons" />
+- Smooth scroll‑reveal animations and tasteful micro‑interactions
+- 3D tilt with parallax glow on hover
+- Dark/light theme toggle with localStorage persistence
+- Responsive, accessible layout; respects reduced‑motion
+- Curated online images (Unsplash Source) and icons (Remix Icon)
 
----
+### Files
 
-### GitHub stats
+- `index.html`: Page structure and sections (Hero, Features, Gallery, Testimonials, CTA)
+- `styles.css`: Gradients, glassmorphism, layout, animations, responsiveness
+- `script.js`: Theme toggle, scroll‑reveal, tilt effect, basic mobile nav
 
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewKemaw&layout=compact&hide_title=true&theme=transparent" alt="Top languages" />
-</div>
+### Customize
 
----
+- Replace image sources with your brand visuals or product shots
+- Update copy in `index.html` to match your product
+- Adjust colors in `styles.css` under `:root` tokens
 
-### LeetCode
+### Credits
 
-<img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=8&theme=dark" alt="LeetCode card" />
-
-<!-- LEETCODE:START -->
-Stats will update here daily.
-<!-- LEETCODE:END -->
-
----
-
-If my work resonates with you, feel free to reach out — I love building thoughtful products and collaborating with great teams.
+- Images via `https://source.unsplash.com` and avatars via `https://i.pravatar.cc`
+- Icons via `https://remixicon.com`

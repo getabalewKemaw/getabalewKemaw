@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark light" />
+    <title>Aurora — Beautiful Animated Landing</title>
+    <meta name="description" content="A vibrant, animated landing page with micro-interactions, dark mode, and curated imagery." />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="/workspace/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="container nav">
+        <a class="logo" href="#" aria-label="Aurora home">
+          <span class="grad-text">Aurora</span>
+        </a>
+
+        <ul class="nav-links">
+          <li><a href="#features">Features</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#testimonials">Love</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <div class="nav-actions">
+          <button id="themeToggle" class="icon-btn" aria-label="Toggle theme" aria-pressed="false">
+            <i class="ri-sun-line" aria-hidden="true"></i>
+          </button>
+          <a class="btn primary" href="#cta">Get Started</a>
+        </div>
+
+        <button class="menu-toggle" aria-label="Open menu">
+          <i class="ri-menu-line" aria-hidden="true"></i>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="home">
+        <div class="container hero-grid">
+          <div class="hero-content">
+            <h1 class="reveal" style="--d: .05s;">Make it beautiful. Make it bold.</h1>
+            <p class="lead reveal" style="--d: .15s;">
+              Aurora blends striking visuals with silky-smooth animations and micro‑interactions to turn your ideas into an experience.
+            </p>
+            <div class="cta-group reveal" style="--d: .25s;">
+              <a href="#cta" class="btn primary">Start now</a>
+              <a href="#features" class="btn ghost">
+                <i class="ri-play-circle-line" aria-hidden="true"></i>
+                See features
+              </a>
+            </div>
+            <div class="stats reveal" style="--d: .35s;">
+              <div class="stat"><span class="num">4.9★</span><span>Avg. Rating</span></div>
+              <div class="stat"><span class="num">120K+</span><span>Downloads</span></div>
+              <div class="stat"><span class="num">2.4×</span><span>Faster UX</span></div>
+            </div>
+          </div>
+
+          <div class="hero-visual reveal" style="--d: .2s;">
+            <div class="card tilt">
+              <img
+                src="https://source.unsplash.com/featured/900x900?abstract,gradient"
+                alt="Colorful abstract gradient composition"
+                width="900"
+                height="900"
+              />
+              <div class="glow" aria-hidden="true"></div>
+            </div>
+            <span class="floating floating-1" aria-hidden="true"></span>
+            <span class="floating floating-2" aria-hidden="true"></span>
+          </div>
+        </div>
+        <div class="hero-bg" aria-hidden="true"></div>
+      </section>
+
+      <section id="features" class="section">
+        <div class="container">
+          <h2 class="section-title reveal">Features you’ll love</h2>
+          <div class="features-grid">
+            <article class="feature-card tilt reveal" style="--d: .05s;">
+              <i class="ri-flashlight-line icon" aria-hidden="true"></i>
+              <h3>Lightning Fast</h3>
+              <p>Instant-feeling interactions with IntersectionObserver and GPU-accelerated transforms.</p>
+            </article>
+            <article class="feature-card tilt reveal" style="--d: .1s;">
+              <i class="ri-magic-line icon" aria-hidden="true"></i>
+              <h3>Delightful Motion</h3>
+              <p>Thoughtful micro‑interactions that elevate your brand and guide attention.</p>
+            </article>
+            <article class="feature-card tilt reveal" style="--d: .15s;">
+              <i class="ri-shield-star-line icon" aria-hidden="true"></i>
+              <h3>Accessible</h3>
+              <p>Respects reduced‑motion preferences and maintains clarity in both themes.</p>
+            </article>
+            <article class="feature-card tilt reveal" style="--d: .2s;">
+              <i class="ri-contrast-drop-2-line icon" aria-hidden="true"></i>
+              <h3>Dark Mode</h3>
+              <p>One click theme toggle with persistence across visits.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="gallery" class="section gallery">
+        <div class="container">
+          <h2 class="section-title reveal">A look at the vibes</h2>
+          <div class="gallery-grid">
+            <img class="reveal" style="--d:.05s;" src="https://source.unsplash.com/800x1000?neon" alt="Neon texture" loading="lazy" width="800" height="1000" />
+            <img class="reveal" style="--d:.1s;" src="https://source.unsplash.com/800x1000?gradient" alt="Gradient colors" loading="lazy" width="800" height="1000" />
+            <img class="reveal" style="--d:.15s;" src="https://source.unsplash.com/800x1000?abstract" alt="Abstract art" loading="lazy" width="800" height="1000" />
+            <img class="reveal" style="--d:.2s;" src="https://source.unsplash.com/800x1000?colors" alt="Colorful background" loading="lazy" width="800" height="1000" />
+            <img class="reveal" style="--d:.25s;" src="https://source.unsplash.com/800x1000?pastel" alt="Pastel gradient" loading="lazy" width="800" height="1000" />
+            <img class="reveal" style="--d:.3s;" src="https://source.unsplash.com/800x1000?city,lights" alt="City lights" loading="lazy" width="800" height="1000" />
+          </div>
+        </div>
+      </section>
+
+      <section id="testimonials" class="section">
+        <div class="container">
+          <h2 class="section-title reveal">Loved by creators</h2>
+          <div class="testimonials-grid">
+            <figure class="testimonial reveal" style="--d:.05s;">
+              <img class="avatar" src="https://i.pravatar.cc/120?img=64" alt="Portrait of happy customer" width="60" height="60" />
+              <blockquote>“The polish is unreal. Subtle, expressive, and fast.”</blockquote>
+              <figcaption>Skyler L., Product Designer</figcaption>
+            </figure>
+            <figure class="testimonial reveal" style="--d:.1s;">
+              <img class="avatar" src="https://i.pravatar.cc/120?img=32" alt="Portrait of smiling developer" width="60" height="60" />
+              <blockquote>“Animations that feel premium without feeling heavy.”</blockquote>
+              <figcaption>Jordan P., Frontend Engineer</figcaption>
+            </figure>
+            <figure class="testimonial reveal" style="--d:.15s;">
+              <img class="avatar" src="https://i.pravatar.cc/120?img=15" alt="Portrait of excited marketer" width="60" height="60" />
+              <blockquote>“It made our launch page pop. Engagement went way up.”</blockquote>
+              <figcaption>Taylor R., Marketing Lead</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section id="cta" class="section cta">
+        <div class="container">
+          <div class="cta-card tilt reveal">
+            <h2>Ready to glow?</h2>
+            <p>Give your idea a stunning presence. Add Aurora and launch with confidence.</p>
+            <a class="btn primary" href="#">Get Aurora</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer" id="contact">
+      <div class="container footer-grid">
+        <p>Made with <span aria-hidden="true">❤️</span> • Images via Unsplash Source & Pravatar</p>
+        <div class="social">
+          <a href="#" aria-label="Twitter"><i class="ri-twitter-x-line"></i></a>
+          <a href="#" aria-label="Instagram"><i class="ri-instagram-line"></i></a>
+          <a href="#" aria-label="GitHub"><i class="ri-github-line"></i></a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/workspace/script.js" defer></script>
+  </body>
+</html>

@@ -13,11 +13,11 @@
 ```typescript
 const getabalewKemaw = {
     location: "DebreBerhan Ababa, Ethiopia 🇪🇹",
-    role: "Full-Stack Developer",
+    role: "Full-Stack Developer,Mobile App developer",
     experience: "1 years",
     availability: "Open to remote & freelance opportunities",
     passion: ["Clean Code", "Scalable Architecture", "User Experience"],
-    currentFocus: "Building next-generation web applications,BackendDevelopment using laravel",
+    currentFocus: "Building next-generation web applications,BackendDevelopment using laravel,and Mobile app Development Using Expo",
     contact: "getabalewkemaw@gmail.com",
     portifolio:"getabalewkemaw.vercel.app
 };
@@ -37,10 +37,10 @@ const getabalewKemaw = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" alt="Frontend technologies" />
 
 ### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring-boot,laravel,python,graphql,postgres,mysql,mongodb,prisma" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring-boot,laravel,python,postgres,mysql,mongodb,prisma" alt="Backend technologies" />
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman,figma" alt="DevOps and tools" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,figma" alt="DevOps and tools" />
 
 </div>
 
@@ -60,10 +60,24 @@ const getabalewKemaw = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🚀 **E-Commerce Platform** | Full-stack e-commerce solution with admin dashboard | React, Node.js, MongoDB, Stripe | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
-| 📱 **Task Management App** | Real-time collaborative task management with drag & drop | Next.js, TypeScript, Prisma, PostgreSQL | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
-| 🎨 **Portfolio Website** | Responsive portfolio with smooth animations | React, Framer Motion, Tailwind CSS | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
-| 🔐 **Authentication System** | Secure JWT-based auth with social login | Node.js, Express, MongoDB, Passport.js | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
+| 🚀 **PromptMasterPro ** | 
+Find a repository…
+MeshebeshaDesignFrontend Private
+Meshebesha Design - Enterprise E-Commerce Platform,Meshebesha Design is not just an online store; it is a comprehensive digital retail operating system. It automates the entire lifecycle of an ord…
+ TypeScript Apache License 2.0 Updated 10 hours ago
+MeshebeshaDesignBackend Private
+ TypeScript Updated 20 hours ago
+webProgramming Private
+ TypeScript Updated 2 days ago
+WebLabExam Private
+ HTML Updated last week
+DockerFullCourse Private
+ CSS Updated last week
+PromptMasterPro Public
+PromptMasterPro is a mobile app designed for Ethiopians to improve their AI prompts. Users can input prompts in Amharic, English, Afan Oromo, or Tigrigna, either by text or voice. The app processes… | React Native,expo, Node.js, Express, pgsql | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/PromptMasterPro)) |
+| 📱 **StudyBuddy+p** | StudyBuddy+ – an all-in-one student web for smarter studying. Create and manage notes, track tasks, set reminders, and get instant AI-powered explanations, summaries, and quizzes in multiple langua… | Next.js, TypeScript, Laravel,Pgsql| [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/studyBuddy))) |
+| 🎨 **SkillShare Hub** | SkillShare Hub - Learn Skills, Share Knowledge Discover thousands of free and paid courses from expert instructors. Master new skills and advance your career with SkillShare Hub. | React, Next js,Prisma, Tailwind CSS | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/SkillshareHub-)) |
+| 🔐 **Supporllyai ** | a beutifull customer ai assistant platform ❤️❤️❤️❤️ powerd by gemeni | Node.js, Express, MongoDB, Gemini | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/Supporllyai)) |
 
 </div>
 
@@ -118,7 +132,7 @@ const getabalewKemaw = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/getabalew-kemaw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/getabalewKemaw)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getabalewKemaw)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/getabalewKemaw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getabalewkemaw@gmail.com)

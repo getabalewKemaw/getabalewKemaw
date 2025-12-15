@@ -61,19 +61,6 @@ const getabalewKemaw = {
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🚀 **PromptMasterPro ** | 
-Find a repository…
-MeshebeshaDesignFrontend Private
-Meshebesha Design - Enterprise E-Commerce Platform,Meshebesha Design is not just an online store; it is a comprehensive digital retail operating system. It automates the entire lifecycle of an ord…
- TypeScript Apache License 2.0 Updated 10 hours ago
-MeshebeshaDesignBackend Private
- TypeScript Updated 20 hours ago
-webProgramming Private
- TypeScript Updated 2 days ago
-WebLabExam Private
- HTML Updated last week
-DockerFullCourse Private
- CSS Updated last week
-PromptMasterPro Public
 PromptMasterPro is a mobile app designed for Ethiopians to improve their AI prompts. Users can input prompts in Amharic, English, Afan Oromo, or Tigrigna, either by text or voice. The app processes… | React Native,expo, Node.js, Express, pgsql | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/PromptMasterPro)) |
 | 📱 **StudyBuddy+p** | StudyBuddy+ – an all-in-one student web for smarter studying. Create and manage notes, track tasks, set reminders, and get instant AI-powered explanations, summaries, and quizzes in multiple langua… | Next.js, TypeScript, Laravel,Pgsql| [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/studyBuddy))) |
 | 🎨 **SkillShare Hub** | SkillShare Hub - Learn Skills, Share Knowledge Discover thousands of free and paid courses from expert instructors. Master new skills and advance your career with SkillShare Hub. | React, Next js,Prisma, Tailwind CSS | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/SkillshareHub-)) |

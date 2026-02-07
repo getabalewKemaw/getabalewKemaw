@@ -17,7 +17,7 @@ const getabalewKemaw = {
     experience: "1 years",
     availability: "Open to remote & freelance opportunities",
     passion: ["Clean Code", "Scalable Architecture", "User Experience"],
-    currentFocus: "Building next-generation web applications,BackendDevelopment using laravel,and Mobile app Development Using Expo",
+    currentFocus: "Building next-generation web applications,BackendDevelopment ,and Mobile app Development Using Expo",
     contact: "getabalewkemaw@gmail.com",
     portifolio:"getabalewkemaw.vercel.app
 };

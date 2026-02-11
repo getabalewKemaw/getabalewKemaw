@@ -1,232 +1,120 @@
+<!-- Profile Stats at Top -->
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Getabalew Kemaw
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Developer;TypeScript+Enthusiast;laravel+Spring-boot+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=getabalewKemaw&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/getabalewKemaw?label=Followers&style=for-the-badge&color=blue)
+  ![GitHub Stars](https://img.shields.io/github/stars/getabalewKemaw?label=Stars&style=for-the-badge&color=yellow)
+  
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</div>
 
-```typescript
-const getabalewKemaw = {
-    location: "DebreBerhan Ababa, Ethiopia 🇪🇹",
-    role: "Full-Stack Developer,Mobile App developer",
-    experience: "1 years",
-    availability: "Open to remote & freelance opportunities",
-    passion: ["Clean Code", "Scalable Architecture", "User Experience"],
-    currentFocus: "Building next-generation web applications,BackendDevelopment ,and Mobile app Development Using Expo",
-    contact: "getabalewkemaw@gmail.com",
-    portifolio:"getabalewkemaw.vercel.app
-};
-```
+<!-- ==== ABOUT / INTRO ==== -->
+<h1 align="center">Hi, I'm Getabalew Kemaw</h1>
+<div align="center">
+  <b>Full-Stack Developer</b> | React, Next.js, TypeScript, Laravel & Spring Boot
+</div>
+<div align="center">
+  <em>
+    Passionate about building intuitive and scalable web & mobile solutions.<br/>
+    Open to remote and freelance opportunities.
+  </em>
+</div>
+<br/>
+
+<!-- ==== TECH STACK SECTION ==== -->
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<!-- Frontend -->
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss"/>
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+
+<!-- Backend -->
+<br>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+<!-- Tools & DevOps -->
+<br>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
-
-<div align="center">
-
-### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" alt="Frontend technologies" />
-
-### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring-boot,laravel,python,postgres,mysql,mongodb,prisma" alt="Backend technologies" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,figma" alt="DevOps and tools" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
-
-<div align="center">
+<!-- ==== FEATURED PROJECTS ==== -->
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🚀 **PromptMasterPro ** | PromptMasterPro is a mobile app designed for Ethiopians to improve their AI prompts. Users can input prompts in Amharic, English, Afan Oromo, or Tigrigna, either by text or voice. The app processes… | React Native,expo, Node.js, Express, pgsql | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/PromptMasterPro)) |
-| 📱 **StudyBuddy+p** | StudyBuddy+ – an all-in-one student web for smarter studying. Create and manage notes, track tasks, set reminders, and get instant AI-powered explanations, summaries, and quizzes in multiple langua… | Next.js, TypeScript, Laravel,Pgsql| [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/studyBuddy))) |
-| 🎨 **SkillShare Hub** | SkillShare Hub - Learn Skills, Share Knowledge Discover thousands of free and paid courses from expert instructors. Master new skills and advance your career with SkillShare Hub. | React, Next js,Prisma, Tailwind CSS | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/SkillshareHub-)) |
-| 🔐 **Supporllyai ** | a beutifull customer ai assistant platform ❤️❤️❤️❤️ powerd by gemeni | Node.js, Express, MongoDB, Gemini | [Demo](https://github.com/getabalewKemaw) • [Code]([https://github.com/getabalewKemaw](https://github.com/getabalewKemaw/Supporllyai)) |
+|--------|-------------|------------|-------|
+| **PromptMasterPro** | Mobile app for Ethiopians to improve their AI prompts in Amharic, English, Afan Oromo, or Tigrigna. | React Native, Expo, Node.js, Express, PostgreSQL | [Code](https://github.com/getabalewKemaw/PromptMasterPro) |
+| **StudyBuddy+** | All-in-one student web app for smarter studying: notes, tasks, reminders, instant AI explanations in multiple languages. | Next.js, TypeScript, Laravel, PostgreSQL | [Code](https://github.com/getabalewKemaw/studyBuddy) |
+| **SkillShare Hub** | Learn and share skills—free/paid courses to master new topics and level up your career. | React, Next.js, Prisma, Tailwind CSS | [Code](https://github.com/getabalewKemaw/SkillshareHub-) |
+| **Supporllyai** | Beautiful customer AI assistant platform, powered by Gemini. | Node.js, Express, MongoDB, Gemini | [Code](https://github.com/getabalewKemaw/Supporllyai) |
 
-</div>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Analytics
+<!-- ==== GITHUB & LEETCODE STATS ==== -->
+## 📊 My GitHub & LeetCode Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewKemaw&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=getabalewKemaw&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewKemaw&layout=compact&langs_count=8&theme=tokyonight"/>
+  <br>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn" alt="LeetCode card" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Coding Challenges & Achievements
+<!-- ==== SOCIALS ==== -->
+## 🤝 Connect With Me
 
 <div align="center">
-
-### 🏆 LeetCode Progress
-<img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn" alt="LeetCode card" />
-
-### 📊 Coding Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=getabalewKemaw&theme=dark)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
-<!-- LEETCODE:START -->
-**Recent LeetCode Activity:**
-- 🔥 Solved 20+ problems across different difficulty levels
-- 💪 Consistent daily practice streak
-- 🎯 Focus on algorithms and data structures and System design
-- 📈 Improving problem-solving efficiency
-<!-- LEETCODE:END -->
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47e8681-8df5-4fdd-a5d7-cc44b7425968.gif" width="30"> Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/getabalewKemaw)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getabalewKemaw)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/getabalewKemaw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getabalewkemaw@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://getabalewkemaw.vercel.app)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Experience & Skills
-
-<div align="center">
-
-### 💼 Professional Experience
-```
-🏢  Full-Stack Developer        📅 2024 - Present
-   •  development of 5+ web applications
-   • Improved application performance 
-   • Mentored junior developers
-
-🏢 Frontend Developer                 📅 2024
-   • Built responsive React applications
-   • Collaborated with design teams
-   • Implemented modern UI/UX patterns
-```
-
-### 🎯 Core Competencies
-<div align="left">
-
-**Frontend Development**
-- ⚛️ React.js & Next.js ecosystem
-- 🎨 Modern CSS (Tailwind, Styled Components)
-- 📱 Responsive & Mobile-first design
-- 🔄 State management ( Zustand)
-
-**Backend Development**
-- 🚀 Node.js & Express.js
-- 🔷 Laravel & Spring-boot
-- 🗄️ Database design & optimization
-- 🔐 Authentication (Oauth...)& authorization
-
-**DevOps & Cloud**
-- ☁️ AWS services (EC2, S3, Lambda)
-- 🐳 Docker containerization
-- 🔄 CI/CD pipelines
-- 📊 Monitoring & logging
-
-</div>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Fun Facts
-
-<div align="center">
-
-```javascript
-const funFacts = {
-    🌍 languages: ["English", "Amharic", "JavaScript", "TypeScript"],
-    ☕ fuelledBy: "Coffee and curiosity",
-    🎵 codingPlaylist: ["Lo-fi Hip Hop", "Synthwave", "Classical"],
-    🎮 hobbies: ["Chess", "Reading Tech Blogs", "Open Source Contributions"],
-    🌱 currentlyLearning: ["laravel", "Ai integration and SEO", "Machine Learning"],
-    💭 philosophy: "Code is poetry, bugs are just typos"
-};
-```
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1de-9da984d5c1e4.gif" width="400">
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=getabalewKemaw&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/getabalewKemaw?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/getabalewKemaw?label=Stars&style=for-the-badge&color=yellow)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <a href="https://linkedin.com/in/getabalewKemaw" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/getabalewKemaw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/getabalewKemaw" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:getabalewkemaw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://getabalewkemaw.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's Build Something Amazing Together!
-
-**"The best way to predict the future is to create it."** 
-
-If my work resonates with you, feel free to reach out — I love building thoughtful products and collaborating with great teams.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
-
-**Made with ❤️ and lots of ☕**
-
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  
 </div>

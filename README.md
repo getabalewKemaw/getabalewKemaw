@@ -20,7 +20,8 @@
 <!-- ==== ABOUT / INTRO ==== -->
 <h1 align="center">Hi, I'm Getabalew Kemaw</h1>
 <div align="center">
-  <b>Full-Stack Developer</b> | React, Next.js, TypeScript, Laravel & Spring Boot
+  <b>Full-Stack Developer</b> | React, Next.js, TypeScript, Laravel & Spring Boot,MERN,PERN,
+  <b>Mobile app developer </b>Expo,ReactNative
 </div>
 <div align="center">
   <em>

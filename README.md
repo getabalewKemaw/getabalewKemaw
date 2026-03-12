@@ -3,7 +3,7 @@
   <table style="border-radius: 30px; background: #262e31; padding: 18px 30px; box-shadow: 0 2px 16px #2228;">
     <tr>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/81544574?v=4" width="70" style="border-radius:50%; border:3px solid #4eca6e;" alt="Getabalew Kemaw" />
+        <img src="[https://avatars.githubusercontent.com/u/81544574?v=4](https://github.com/getabalewKemaw.png)" width="70" style="border-radius:50%; border:3px solid #4eca6e;" alt="Getabalew Kemaw" />
       </td>
       <td style="padding-left:18px;">
         <span style="font-size:1.7em; font-family:monospace; color:#B4F7B6; font-weight:bold;">Getabalew Kemaw</span><br>

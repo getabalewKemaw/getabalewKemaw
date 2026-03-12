@@ -3,7 +3,7 @@
   <table style="border-radius: 30px; background: #262e31; padding: 18px 30px; box-shadow: 0 2px 16px #2228;">
     <tr>
       <td>
-        <img src="[https://avatars.githubusercontent.com/u/81544574?v=4](https://github.com/getabalewKemaw.png)" width="70" style="border-radius:50%; border:3px solid #4eca6e;" alt="Getabalew Kemaw" />
+        <img src="https://github.com/getabalewKemaw.png" width="70" style="border-radius:50%; border:3px solid #4eca6e;" alt="Getabalew Kemaw" />
       </td>
       <td style="padding-left:18px;">
         <span style="font-size:1.7em; font-family:monospace; color:#B4F7B6; font-weight:bold;">Getabalew Kemaw</span><br>
@@ -32,12 +32,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </div>
 
-<!-- ==== ABOUT / INTRO ==== -->
 <h1 align="center">Hi, I'm Getabalew Kemaw</h1>
+
 <div align="center">
   <b>Full-Stack Developer</b> | React, Next.js, TypeScript, Laravel & Spring Boot, MERN, PERN<br>
-  <b>Mobile app developer</b> | Expo, React Native
+  <b>Mobile app developer</b> | Expo, React Native <br>
+  <b> developed Fundamental AI for Business</b> RAG,Vector Db,Langchain,HuggingFace
 </div>
+
 <div align="center">
   <em>
     Passionate about building intuitive and scalable web & mobile solutions.<br/>
@@ -46,64 +48,62 @@
     <b>Ask me about:</b> tJS, TypeScript, Python, Express
   </em>
 </div>
+
 <br/>
 
-<!-- ==== TECH STACK SECTION ==== -->
-## 🚀 Tech Stack
+---
+
+# 🚀 Tech Stack
 
 | Category | Skills |
 |----------|--------|
 | **Frontend** | <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32"/> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="32"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32"/> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="32"/> |
 | **Backend** | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="32"/> <img alt="Express" src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" height="32"/> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="32"/> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="32"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/> |
 | **Databases** | <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="32"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/> <img alt="Vector DB" src="https://img.shields.io/badge/Vector%20DB-informational?style=for-the-badge&logo=databricks&logoColor=white" height="32"/> |
-| **DevOps & Tools** | <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="32"/> <img alt="RAG Systems" src="https://img.shields.io/badge/RAG%20Systems-informational?style=for-the-badge&logo=opsgenie&logoColor=white" height="32"/> <img alt="AI Foundation" src="https://img.shields.io/badge/AI%20Foundation-informational?style=for-the-badge&logo=openai&logoColor=white" height="32"/> |
+| **DevOps & Tools** | <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="32"/> |
 
 ---
 
-<!-- ==== FEATURED PROJECTS ==== -->
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| **PromptMasterPro** | Mobile app for Ethiopians to improve their AI prompts in Amharic, English, Afan Oromo, or Tigrigna. | React Native, Expo, Node.js, Express, PostgreSQL | [Code](https://github.com/getabalewKemaw/PromptMasterPro) |
-| **StudyBuddy+** | All-in-one student web app for smarter studying: notes, tasks, reminders, instant AI explanations in multiple languages. | Next.js, TypeScript, Laravel, PostgreSQL | [Code](https://github.com/getabalewKemaw/studyBuddy) |
-| **SkillShare Hub** | Learn and share skills—free/paid courses to master new topics and level up your career. | React, Next.js, Prisma, Tailwind CSS | [Code](https://github.com/getabalewKemaw/SkillshareHub-) |
-| **Supporllyai** | Beautiful customer AI assistant platform, powered by Gemini. | Node.js, Express, MongoDB, Gemini | [Code](https://github.com/getabalewKemaw/Supporllyai) |
-
----
-
-<!-- ==== GITHUB & LEETCODE STATS ==== -->
-## 📊 My GitHub & LeetCode Stats
+# 📊 My GitHub & LeetCode Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewKemaw&layout=compact&langs_count=8&theme=tokyonight"/>
   <br>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight"/>
   <br>
-  <img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn" alt="LeetCode card" />
+  <img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn" />
 </div>
 
 ---
 
-<!-- ==== SOCIALS ==== -->
-## 🤝 Connect With Me
+# 📈 GitHub Activity Graph
 
 <div align="center">
-  <a href="https://linkedin.com/in/getabalewKemaw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=getabalewKemaw&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/getabalewKemaw">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/getabalewKemaw" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/getabalewKemaw">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/getabalewKemaw" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/getabalewKemaw">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:getabalewkemaw@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://getabalewkemaw.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://getabalewkemaw.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </div>
 

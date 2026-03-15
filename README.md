@@ -34,22 +34,36 @@
 
 <h1 align="center">Hi, I'm Getabalew Kemaw</h1>
 
-<div align="center">
-  <b>Full-Stack Developer</b> | React, Next.js, TypeScript, Laravel & Spring Boot, MERN, PERN<br>
-  <b>Mobile app developer</b> | Expo, React Native <br>
-  <b> developed Fundamental AI for Business</b> RAG,Vector Db,Langchain,HuggingFace
-</div>
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Laravel, Spring Boot, MERN (MongoDB, Express, React, Node), PERN (PostgreSQL, Express, React, Node)
+- **Mobile App Development:** Expo, React Native
 
-<div align="center">
-  <em>
-    Passionate about building intuitive and scalable web & mobile solutions.<br/>
-    Open to remote and freelance opportunities.<br/>
-    <b>Currently learning:</b> Kubernetes, AI/DS/ML 🕸️<br/>
-    <b>Ask me about:</b> tJS, TypeScript, Python, Express
-  </em>
-</div>
+## > AI for Business
+- Developed **Fundamental AI for Business** solutions using:
+  - Retrieval-Augmented Generation (RAG)
+  - Vector Databases
+  - Langchain
+  - HuggingFace
 
-<br/>
+## > Passion & Focus
+Passionate about building intuitive, scalable web and mobile solutions.
+
+## > Work Opportunities
+- Open to **remote** and **freelance** positions.
+
+## > Currently Learning
+- Kubernetes
+- AI / Data Science / Machine Learning 🕸️
+
+## > Ask Me About
+- JS
+- TypeScript
+- Python
+- Express
+
+---
+
+Feel free to connect or ask questions!
 
 ---
 

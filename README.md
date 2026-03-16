@@ -32,38 +32,36 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </div>
 
-<h1 align="center">Hi, I'm Getabalew Kemaw</h1>
+<h1 align="center">Hi, I'm Getabalew Kemaw | Full-Stack Developer building AI-powered SaaS products.</h1>
+Full-Stack Software Engineer building scalable web and mobile applications.
 
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Laravel, Spring Boot, MERN (MongoDB, Express, React, Node), PERN (PostgreSQL, Express, React, Node)
-- **Mobile App Development:** Expo, React Native
+I specialize in TypeScript ecosystems using React, Next.js, Express, and PostgreSQL,
+with growing experience in AI-powered business tools.
+## AI Development
 
-## > AI for Business
-- Developed **Fundamental AI for Business** solutions using:
-  - Retrieval-Augmented Generation (RAG)
-  - Vector Databases
-  - Langchain
-  - HuggingFace
+Experience building AI-powered business solutions using:
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- LangChain
+- HuggingFace
+---
+## Currently Learning
 
-## > Passion & Focus
-Passionate about building intuitive, scalable web and mobile solutions.
-
-## > Work Opportunities
-- Open to **remote** and **freelance** positions.
-
-## > Currently Learning
 - Kubernetes
-- AI / Data Science / Machine Learning 🕸️
+- Machine Learning
+- Data Engineering
+---
+## Opportunities
 
-## > Ask Me About
-- JS
-- TypeScript
-- Python
-- Express
+Open to:
+
+- Remote internships
+- Freelance development
+- Full-stack engineering roles
 
 ---
 
-Feel free to connect or ask questions!
+Feel free to connect or collaborate
 
 ---
 

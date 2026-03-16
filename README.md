@@ -76,7 +76,7 @@ Feel free to connect or collaborate
 
 ---
 
-# 📊 My GitHub & LeetCode Stats
+# 📊 My GitHub, LeetCode & HackerRank Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -84,7 +84,14 @@ Feel free to connect or collaborate
   <br>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight"/>
   <br>
-  <img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn" />
+  <img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn"/>
+  <br>
+  <!-- HackerRank Stats Card -->
+  <img src="https://hackerrank-profile-card.vercel.app/api/getabalewkemaw" alt="HackerRank Stats Card" width="400" />
+  <br>
+  <a href="https://www.hackerrank.com/profile/getabalewkemaw">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="32"/>
+  </a>
 </div>
 
 ---
@@ -95,6 +102,20 @@ Feel free to connect or collaborate
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=getabalewKemaw&theme=tokyo-night&hide_border=true"/>
 
+</div>
+
+---
+
+## 📚 HackerRank Stats
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/getabalewkemaw">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="32"/>
+  </a>
+  <br><br>
+  <img src="https://hackerrank-profile-card.vercel.app/api/getabalewkemaw" alt="HackerRank Stats Card" width="400" />
+  <br>
+  <b><a href="https://www.hackerrank.com/profile/getabalewkemaw">View my HackerRank profile</a></b>
 </div>
 
 ---
@@ -110,6 +131,9 @@ Feel free to connect or collaborate
   </a>
   <a href="https://leetcode.com/getabalewKemaw">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/getabalewkemaw">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="mailto:getabalewkemaw@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

@@ -44,21 +44,13 @@ Experience building AI-powered business solutions using:
 - Vector Databases
 - LangChain
 - HuggingFace
+- AI apis(openAi,Gemini........)
 ---
 ## Currently Learning
 
 - Kubernetes
 - Machine Learning
 - Data Engineering
----
-## Opportunities
-
-Open to:
-
-- Remote internships
-- Freelance development
-- Full-stack engineering roles
-
 ---
 
 Feel free to connect or collaborate

@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A beautiful, animated and responsive landing page with curated imagery." />
+    <meta name="theme-color" content="#7c3aed" />
+    <title>Starlight — Beautiful Animated Landing</title>
+
+    <!-- Performance: fonts preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+
+    <!-- Favicon (inline SVG) -->
+    <link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><text y=".9em" font-size="200">✨</text></svg>' />
+
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./script.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="#" class="brand" aria-label="Starlight home">
+          <span class="brand-mark">✨</span>
+          <span class="brand-name">Starlight</span>
+        </a>
+        <nav class="nav" aria-label="Primary">
+          <a href="#features">Features</a>
+          <a href="#gallery">Gallery</a>
+          <a href="#about">About</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <button id="themeToggle" class="btn btn-ghost" aria-label="Toggle theme">Theme</button>
+      </div>
+    </header>
+
+    <main id="content">
+      <!-- HERO -->
+      <section class="hero">
+        <div class="container hero-inner">
+          <div class="hero-copy reveal" data-reveal>
+            <h1 class="gradient-text">Make it stunning. Make it yours.</h1>
+            <p class="lead">
+              A vibrant, animated template with delightful micro‑interactions and curated imagery. Perfect for portfolios, products, and splash pages.
+            </p>
+            <div class="cta-row">
+              <a class="btn btn-primary" href="#gallery">Explore gallery</a>
+              <a class="btn btn-ghost" href="#about">Learn more</a>
+            </div>
+          </div>
+          <div class="hero-media reveal" data-reveal data-tilt>
+            <img
+              src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1600&q=80"
+              alt="Abstract neon gradient shapes"
+              width="800"
+              height="600"
+              loading="eager"
+              class="hero-image"
+            />
+            <div class="glow"></div>
+          </div>
+        </div>
+        <div class="hero-bg"></div>
+      </section>
+
+      <!-- FEATURES -->
+      <section id="features" class="section">
+        <div class="container">
+          <header class="section-header reveal" data-reveal>
+            <h2>Thoughtful features</h2>
+            <p class="muted">Fast, responsive, and accessible by default—seasoned with motion.</p>
+          </header>
+          <div class="features-grid">
+            <article class="card reveal" data-reveal data-tilt>
+              <div class="card-icon">⚡</div>
+              <h3>Performance‑first</h3>
+              <p>Lazy‑loaded media, preconnected fonts, and minimal JS for speed.</p>
+            </article>
+            <article class="card reveal" data-reveal data-tilt>
+              <div class="card-icon">🎨</div>
+              <h3>Beautiful by default</h3>
+              <p>Curated palette, fluid typography, and soft gradients with depth.</p>
+            </article>
+            <article class="card reveal" data-reveal data-tilt>
+              <div class="card-icon">🪄</div>
+              <h3>Delightful motion</h3>
+              <p>Scroll reveals, hover tilts, and tasteful parallax for polish.</p>
+            </article>
+            <article class="card reveal" data-reveal data-tilt>
+              <div class="card-icon">🌙</div>
+              <h3>Theme aware</h3>
+              <p>Light/dark themes with a single click and local preference.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- GALLERY -->
+      <section id="gallery" class="section">
+        <div class="container">
+          <header class="section-header reveal" data-reveal>
+            <h2>Curated gallery</h2>
+            <p class="muted">High‑impact visuals from Unsplash to inspire your layout.</p>
+          </header>
+
+          <div class="gallery-grid">
+            <!-- Each image uses Unsplash with size params for performance -->
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+                alt="Milky Way over desert rock formations"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Night sky</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?auto=format&fit=crop&w=1200&q=80"
+                alt="Modern glass architecture with reflections"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Architecture</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1511765224389-37f0e77cf0eb?auto=format&fit=crop&w=1200&q=80"
+                alt="Colorful gradient abstract art"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Abstract</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?auto=format&fit=crop&w=1200&q=80"
+                alt="Foggy forest with tall pines"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Nature</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80"
+                alt="Aerial coastline with waves"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Coastline</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=80"
+                alt="City at night with neon lights"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>City lights</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1200&q=80"
+                alt="Hand reaching into sunlight with dust particles"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Moments</figcaption>
+            </figure>
+            <figure class="gallery-item reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1200&q=80"
+                alt="Minimal pastel colored shapes"
+                width="600"
+                height="800"
+                loading="lazy"
+              />
+              <figcaption>Minimal</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- ABOUT -->
+      <section id="about" class="section">
+        <div class="container">
+          <header class="section-header reveal" data-reveal>
+            <h2>Made to impress</h2>
+            <p class="muted">Clean architecture, scalable styles, and tasteful motion principles.</p>
+          </header>
+          <div class="about-grid">
+            <div class="about-copy reveal" data-reveal>
+              <h3>Design that feels alive</h3>
+              <p>
+                We use subtle animation to guide attention, never distract. Components are responsive and accessible, with motion tuned by
+                <code>prefers-reduced-motion</code>.
+              </p>
+              <ul class="checks">
+                <li>Responsive from mobile to 4K</li>
+                <li>Accessible colors and focus rings</li>
+                <li>Production‑ready, no framework required</li>
+              </ul>
+            </div>
+            <div class="about-media reveal" data-reveal data-tilt>
+              <img
+                src="https://images.unsplash.com/photo-1524666041070-9d87656c25bb?auto=format&fit=crop&w=1200&q=80"
+                alt="Designer desk with warm lighting"
+                width="900"
+                height="600"
+                loading="lazy"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- CONTACT/CTA -->
+      <section id="contact" class="section cta">
+        <div class="container">
+          <div class="cta-card reveal" data-reveal data-tilt>
+            <h2>Ready to make something beautiful?</h2>
+            <p class="muted">Use this as a starting point and tailor it to your brand.</p>
+            <a class="btn btn-primary" href="#">Get started</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>
+          Images from <a href="https://unsplash.com" target="_blank" rel="noreferrer">Unsplash</a>. Built with <span aria-label="love">❤</span>.
+        </p>
+        <p class="muted">© <span id="year"></span> Starlight</p>
+      </div>
+    </footer>
+  </body>
+</html>

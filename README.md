@@ -32,25 +32,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </div>
 
-<h1 align="center">Hi, I'm Getabalew Kemaw | Full-Stack Developer building AI-powered SaaS products.</h1>
-Full-Stack Software Engineer building scalable web and mobile applications.
 
-I specialize in TypeScript ecosystems using React, Next.js, Express, and PostgreSQL,
-with growing experience in AI-powered business tools.
-## AI Development
+-I build scalable web and mobile applications that help businesses improve their digital presence, streamline operations, and deliver better experiences to their users.
+-I specialize in React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB, React Native, and Expo, with experience across modern full-stack technologies.
+-I’ve built and contributed to real-world applications, including full-stack platforms, REST APIs, authentication systems, and AI-integrated solutions.
+-I build AI/ML and AI-powered applications, specializing in RAG systems and intelligent solutions that combine modern AI techniques with practical software engineering to solve real-world problems.
 
-Experience building AI-powered business solutions using:
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- LangChain
-- HuggingFace
-- AI apis(openAi,Gemini........)
----
-## Currently Learning
 
-- Kubernetes
-- Machine Learning
-- Data Engineering
+
 ---
 
 Feel free to connect or collaborate

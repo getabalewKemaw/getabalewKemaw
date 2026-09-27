@@ -41,62 +41,6 @@
 
 Feel free to connect or collaborate
 
----
-
-# 🚀 Tech Stack
-
-| Category | Skills |
-|----------|--------|
-| **Frontend** | <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32"/> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32"/> |
-| **Backend** | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="32"/> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="32"/> |
-| **Databases** | <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="32"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/> |
-| **DevOps & Tools** | <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/> |
-
----
-
-# 📊 My GitHub, LeetCode & HackerRank Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewKemaw&layout=compact&langs_count=8&theme=tokyonight"/>
-  <br>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight"/>
-  <br>
-  <img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn"/>
-  <br>
-  <!-- HackerRank Stats Card -->
-  <img src="https://hackerrank-profile-card.vercel.app/api/getabalewkemaw" alt="HackerRank Stats Card" width="400" />
-  <br>
-  <a href="https://www.hackerrank.com/profile/getabalewkemaw">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="32"/>
-  </a>
-</div>
-
----
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=getabalewKemaw&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 📚 HackerRank Stats
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/getabalewkemaw">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="32"/>
-  </a>
-  <br><br>
-  <img src="https://hackerrank-profile-card.vercel.app/api/getabalewkemaw" alt="HackerRank Stats Card" width="400" />
-  <br>
-  <b><a href="https://www.hackerrank.com/profile/getabalewkemaw">View my HackerRank profile</a></b>
-</div>
-
----
 
 # 🤝 Connect With Me
 
